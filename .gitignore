@@ -1,0 +1,6 @@
+/.tmp
+/node_modules
+local.log
+/reports
+.DS_Store
+npm-debug.log
